@@ -1,0 +1,12 @@
+node_modules
+docs/.vuepress/dist
+dist
+*/.DS_Store
+.DS_Store?
+.DS_Store
+.vscode/
+.idea/
+.project
+npm-debug.log
+package-lock.json
+temp/
